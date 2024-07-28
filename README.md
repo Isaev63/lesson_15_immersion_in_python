@@ -70,4 +70,5 @@
 
 Таким образом, данный обновленный код позволяет удобно задавать параметры матриц через командную строку, автоматически
 заполнять их случайными значениями и отслеживать выполнение операций через логирование.
-[Matrix](https://github.com/Isaev63/lesson_15_immersion_in_python/blob/main/matrix.py "Matrix")
+
+> [Matrix](https://github.com/Isaev63/lesson_15_immersion_in_python/blob/main/matrix.py "Matrix")
